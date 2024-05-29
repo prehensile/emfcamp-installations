@@ -1,0 +1,929 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "The Scent Organ",
+                "Where": "Null Sector Container B"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3770695136085354,
+                    52.04360622712066
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Invisible heatmirror",
+                "Where": "Null Sector Container A"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3769997385403374,
+                    52.04359060911723
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Telephone Exchange",
+                "Where": "Null Sector Container H"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3770405623008517,
+                    52.04371649807412
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "ASR33 Teletype Printer",
+                "Where": "Null Sector Container C"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3771367183419616,
+                    52.043632573238526
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "(The) Retro Reliquary",
+                "Where": "Null Sector Container B"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377074582886809,
+                    52.0435983655933
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Fluroclock v2",
+                "Where": "Null Sector Container J"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3769141287337052,
+                    52.04366207677255
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Whiteboard Techno",
+                "Where": "Null Sector Container I"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376998559504574,
+                    52.04369040305541
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Interactive site map",
+                "Where": "Null Sector Container G"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377064253154049,
+                    52.04367474533315
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Shadowplay",
+                "Where": "Null Sector Container 1"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3769457883109797,
+                    52.04363496630525
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Cybow",
+                "Where": "Null Sector Container J"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376910062328523,
+                    52.04365489502497
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Sea Angels ",
+                "Where": "Null Sector Container G"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377050676382385,
+                    52.04367580215332
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "AutoCrat",
+                "Where": "Null Sector Container C"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3771422680936953,
+                    52.04362434440141
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Unseeing Eye",
+                "Where": "Null Sector entrance"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3769367828378054,
+                    52.04354999267743
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "roygbiVW",
+                "Where": "Content Creators Village"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377966464867657,
+                    52.04013890783214
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Giant Tentacle Robot",
+                "Where": "Content Creators Village"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3778273012030438,
+                    52.04012207133304
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Longplayer",
+                "Where": "Camping D post"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376595550800363,
+                    52.043108705850884
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Interactive Musical Roots",
+                "Where": "Camping D"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3766461427403445,
+                    52.04298820571371
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Speczilla",
+                "Where": "Camping D"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3762131918390597,
+                    52.04317103561
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "sunDome_001",
+                "Where": "Camping D"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3765265032426615,
+                    52.043253480608925
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Deep-Fried Buckfast with Irn Bru Sauce",
+                "Where": "Scottish Consulate village"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37562959320402,
+                    52.0432996266745
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "The Laserium",
+                "Where": "Workshop 4"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37598,
+                    52.043281
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Spellbinding green vectors",
+                "Where": "The Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37655616534229,
+                    52.04148331245943
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Big Precision Clock",
+                "Where": "The Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3764880460963376,
+                    52.04145998653305
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Secrets of the Spores",
+                "Where": "Between the lounges"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376941852683327,
+                    52.04149332848029
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Interacting with Mothers' Q(g)uilt",
+                "Where": "The Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376603319486346,
+                    52.04146985573737
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "QuickTake Me to the 90s Photo Booth",
+                "Where": "The Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376482219446043,
+                    52.04138199900418
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Hexatower",
+                "Where": "The Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3764339179587033,
+                    52.041431686973276
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Mind Chimes",
+                "Where": "Between the lounges"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3770854127322956,
+                    52.04149332493494
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Oinkstürzende Neubacon",
+                "Where": "Family Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3775347684592383,
+                    52.04138520832776
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Strongest Bridge Competition!",
+                "Where": "West of Family Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3775380982409864,
+                    52.04142166877383
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Computer Science",
+                "Where": "The Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376657002550015,
+                    52.04140846155118
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Solar powered arcade cabinet",
+                "Where": "Family Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3774033254165623,
+                    52.041398522899804
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "ams",
+                "Where": "Dome 2 (pod)"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3765877102761372,
+                    52.04165326375897
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Two Tin Cans",
+                "Where": "South of Family Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377609733942247,
+                    52.041252488059165
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "LED Cube",
+                "Where": "South of Family Lounge"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377506779030252,
+                    52.04126386013919
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Supercomputer",
+                "Where": "By the arcade"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3771083998459765,
+                    52.04198589237915
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Robot Slide Whistle Orchestra",
+                "Where": "Dome 3 (shelter)"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376465565495092,
+                    52.04163992237681
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Trebuchet",
+                "Where": "Corner of Dipole Hill and Flux Passage"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.375958351629956,
+                    52.04147714032891
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Monumental GameBoy",
+                "Where": "Arcade Gazebo"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377189953128637,
+                    52.04199051790733
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "JerryCanvas",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377332097531298,
+                    52.04231699304277
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "7-Segment Servo Clock",
+                "Where": "On the bar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377311858509263,
+                    52.042401816525064
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Zombie Shooting Range",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377358326097284,
+                    52.04236240874602
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "ASCII Photobooth",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3774158372995555,
+                    52.04237508618244
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Cyber Coin Pusher",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3773556112577023,
+                    52.04246576321152
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Pint flap counter",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37737865038422,
+                    52.042435685244875
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Tim Hunkin's machines",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3774017151648263,
+                    52.042405805997994
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "ZAPP - Bar Top Game",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3774185655931217,
+                    52.04235357589608
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Appybird arcade game",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3772969141857243,
+                    52.04230043519906
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Flipdot & Friend",
+                "Where": "The Robot Arms"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377369367350401,
+                    52.04233147897231
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "EMFFAX",
+                "Where": "On the bar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3772964350808263,
+                    52.04242196204215
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "MastoDot Matrix Printer",
+                "Where": "On the bar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3772781990814633,
+                    52.04244206490106
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Space Pirate Trainer",
+                "Where": "Stage A"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.378582,
+                    52.039919
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "RGB Squash",
+                "Where": "Near Milliways"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37624886507703,
+                    52.0426494150422
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Tim Hunkin's machines",
+                "Where": "The Arcade"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37722149925756,
+                    52.04197094478844
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Blowing Nowhere",
+                "Where": "Middle of Null Sector"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3770312963796303,
+                    52.04369236211396
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "TV Turnoff Bot",
+                "Where": "Cybar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376859792066728,
+                    52.04377357555366
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Analogue is nicer",
+                "Where": "Cybar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376870372620789,
+                    52.04376576024397
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Satellite dish",
+                "Where": "Cybar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376888929173407,
+                    52.043770285467204
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "LED Sphere",
+                "Where": "Night Market"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3770599730439588,
+                    52.04379934308149
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "EMFFAX",
+                "Where": "Cybar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.376879847726815,
+                    52.043781925445174
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Murmuration",
+                "Where": "Between the lakes"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.377835,
+                    52.042678
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Wimshurst machine",
+                "Where": "Odin's Tesla Fest village"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37730405902684,
+                    52.0433328830368
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Flock",
+                "Where": "Dome 1 (pod)"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3772580041207068,
+                    52.04199123419273
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "ASR33 Teletype Printer",
+                "Where": "The Arcade"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3772022054856468,
+                    52.042018130700264
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Matt Gray’s Free Play Gameboys",
+                "Where": "The Arcade"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.3772529585544095,
+                    52.04202110801581
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Installation": "Autonomy",
+                "Where": "The small lake"
+            },
+            "geometry": {
+                "coordinates": [
+                    -2.37809,
+                    52.042333
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
